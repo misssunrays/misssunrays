@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @misssunrays
-- 👀 I’m interested in DATA SCINCE AND ML
+- 👋 Hi, I’m Arustha Thapa
+- 👀 I’m interested in DATA SCIENCE AND ML
 - 🌱 I’m an engineering student
 - 📫 arushtha1@gmail.com
 - 😄 Pronouns: she/her
